@@ -1,1 +1,5 @@
-{"version":"1.2.16","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.16/CryptoTrading_Setup_1.2.16.exe","notes_ar":"إصلاحات منطق الشراء: منع الشراء عند غياب RSI، رفع حد الثقة إلى 65%، فلتر الارتداد المبكر مع استثناء الترند القوي"}
+{
+  "version": "1.2.17",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.17/CryptoTrading_Setup_1.2.17.exe",
+  "notes_ar": "مزامنة تلقائية لرصيد eToro الأساسي عند غياب المراكز المفتوحة"
+}
