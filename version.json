@@ -1,5 +1,5 @@
 {
-  "version": "1.2.17",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.17/CryptoTrading_Setup_1.2.17.exe",
-  "notes_ar": "مزامنة تلقائية لرصيد eToro الأساسي عند غياب المراكز المفتوحة"
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.18/CryptoTrading_Setup_1.2.18.exe",
+    "notes_ar":  "كشف تشكّل رأس وكتفين هابط/صاعد + منع الشراء/البيع أثناء التشكّل + منع شموع المطرقة/الوتر مع آلية رفع المنع + مزامنة تلقائية لرصيد eToro",
+    "version":  "1.2.18"
 }
