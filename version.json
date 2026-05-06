@@ -1,5 +1,5 @@
 {
-  "version": "1.2.24",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.24/CryptoTrading_Setup_1.2.24.exe",
-  "notes_ar": "نقل حد شرط تحت VWAP إلى قسم فلاتر الارتداد في الواجهة + إصلاح قيم قاطع الدائرة"
+  "version": "1.2.25",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.25/CryptoTrading_Setup_1.2.25.exe",
+  "notes_ar": "تغيير اسم فلتر VWAP في الواجهة ليكون أوضح"
 }
