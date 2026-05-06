@@ -1,1 +1,5 @@
-{"version":"1.2.20","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.20/CryptoTrading_Setup_1.2.20.exe","notes_ar":"تحليل شموع AI مع تمييز واضح بين صفوف AI والخوارزمية + ضبط أوزان قرار البوت"}
+{
+  "version": "1.2.21",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.21/CryptoTrading_Setup_1.2.21.exe",
+  "notes_ar": "فلتر منع البيع بخسارة: يحسب نقطة التعادل بعد العمولة ويمنع البيع إذا كان الربح الصافي سالباً"
+}
