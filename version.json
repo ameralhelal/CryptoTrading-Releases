@@ -1,5 +1,5 @@
 {
-  "version": "1.2.22",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.22/CryptoTrading_Setup_1.2.22.exe",
-  "notes_ar": "إصلاح فلتر تحت VWAP: نقل الشرط بجانب فلتر الارتداد + إصلاح قيمة 0% التي كانت تُتجاهل"
+  "version": "1.2.23",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.23/CryptoTrading_Setup_1.2.23.exe",
+  "notes_ar": "إصلاح إغلاق البرنامج المفاجئ: ملف sklearn/estimator.css مفقود من الحزمة"
 }
