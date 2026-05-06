@@ -1,5 +1,1 @@
-{
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.18/CryptoTrading_Setup_1.2.18.exe",
-    "notes_ar":  "كشف تشكّل رأس وكتفين هابط/صاعد + منع الشراء/البيع أثناء التشكّل + منع شموع المطرقة/الوتر مع آلية رفع المنع + مزامنة تلقائية لرصيد eToro",
-    "version":  "1.2.18"
-}
+{"version":"1.2.20","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.20/CryptoTrading_Setup_1.2.20.exe","notes_ar":"تحليل شموع AI مع تمييز واضح بين صفوف AI والخوارزمية + ضبط أوزان قرار البوت"}
