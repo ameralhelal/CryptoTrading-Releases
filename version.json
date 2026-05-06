@@ -1,5 +1,5 @@
 {
-  "version": "1.2.21",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.21/CryptoTrading_Setup_1.2.21.exe",
-  "notes_ar": "فلتر منع البيع بخسارة: يحسب نقطة التعادل بعد العمولة ويمنع البيع إذا كان الربح الصافي سالباً"
+  "version": "1.2.22",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.22/CryptoTrading_Setup_1.2.22.exe",
+  "notes_ar": "إصلاح فلتر تحت VWAP: نقل الشرط بجانب فلتر الارتداد + إصلاح قيمة 0% التي كانت تُتجاهل"
 }
