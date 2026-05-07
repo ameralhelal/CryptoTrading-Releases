@@ -1,5 +1,5 @@
 {
-  "version": "1.2.46",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.46/CryptoTrading_Setup_1.2.46.exe",
-  "notes_ar": "نظام تتبع دقة AI Vision: يُسجّل كل قرار ويقيس صحته بعد 4 ساعات — الإحصائيات تظهر في tooltip الـ AI Vision"
+  "version": "1.2.47",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.47/CryptoTrading_Setup_1.2.47.exe",
+  "notes_ar": "إصلاح تعطل «عملات متوقعة» عند الإغلاق أثناء الدراسة + إصلاح إغلاق المراكز القديمة (Spot eToro)"
 }
