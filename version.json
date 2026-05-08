@@ -1,5 +1,5 @@
 {
-  "version": "1.2.50",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.50/CryptoTrading_Setup_1.2.50.exe",
-  "notes_ar": "إصلاح منع رأس وكتفين الدائم: ينتهي تلقائياً بعد 96 ساعة أو عند تعافي السعر فوق الكتف الأيسر"
+  "version": "1.2.51",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.51/CryptoTrading_Setup_1.2.51.exe",
+  "notes_ar": "إزالة جميع فلاتر المنع: رأس وكتفين الهابط/الصاعد + المطرقة والأوتار"
 }
