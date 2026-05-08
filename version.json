@@ -1,5 +1,5 @@
 {
-  "version": "1.2.48",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.48/CryptoTrading_Setup_1.2.48.exe",
-  "notes_ar": "إصلاح ارتفاع لوحة القرار + عداد التهدئة + مسار vision_outcomes في الـ exe"
+  "version": "1.2.49",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.49/CryptoTrading_Setup_1.2.49.exe",
+  "notes_ar": "إصلاح نمط رأس وكتفين هابط: النمط ينتهي بعد 30 شمعة من الكتف الأيمن بدلاً من الاستمرار إلى الأبد"
 }
