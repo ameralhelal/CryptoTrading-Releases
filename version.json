@@ -1,5 +1,5 @@
 {
-  "version": "1.2.49",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.49/CryptoTrading_Setup_1.2.49.exe",
-  "notes_ar": "إصلاح نمط رأس وكتفين هابط: النمط ينتهي بعد 30 شمعة من الكتف الأيمن بدلاً من الاستمرار إلى الأبد"
+  "version": "1.2.50",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.50/CryptoTrading_Setup_1.2.50.exe",
+  "notes_ar": "إصلاح منع رأس وكتفين الدائم: ينتهي تلقائياً بعد 96 ساعة أو عند تعافي السعر فوق الكتف الأيسر"
 }
