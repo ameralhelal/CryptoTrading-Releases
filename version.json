@@ -1,5 +1,5 @@
 {
-  "version": "1.2.47",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.47/CryptoTrading_Setup_1.2.47.exe",
-  "notes_ar": "إصلاح تعطل «عملات متوقعة» عند الإغلاق أثناء الدراسة + إصلاح إغلاق المراكز القديمة (Spot eToro)"
+  "version": "1.2.48",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.48/CryptoTrading_Setup_1.2.48.exe",
+  "notes_ar": "إصلاح ارتفاع لوحة القرار + عداد التهدئة + مسار vision_outcomes في الـ exe"
 }
