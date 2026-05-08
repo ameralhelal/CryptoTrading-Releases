@@ -1,5 +1,5 @@
 {
-  "version": "1.2.51",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.51/CryptoTrading_Setup_1.2.51.exe",
-  "notes_ar": "إزالة جميع فلاتر المنع: رأس وكتفين الهابط/الصاعد + المطرقة والأوتار"
+  "version": "1.2.52",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.52/CryptoTrading_Setup_1.2.52.exe",
+  "notes_ar": "إصلاح bot_logic: دعم مفاتيح limit_sell + إضافة شرط below_vwap — 85/85 اختبار نجحت"
 }
