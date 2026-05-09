@@ -1,5 +1,5 @@
 {
-  "version": "1.2.52",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.52/CryptoTrading_Setup_1.2.52.exe",
-  "notes_ar": "إصلاح bot_logic: دعم مفاتيح limit_sell + إضافة شرط below_vwap — 85/85 اختبار نجحت"
+  "version": "1.2.54",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.54/CryptoTrading_Setup_1.2.54.exe",
+  "notes_ar": "إصلاح 7 أخطاء: قاطع الدائرة + قفل eToro + تسجيل شراء + مؤشرات ديناميكية + تسعير صفوف + تصفير cooldown عند فشل SELL"
 }
