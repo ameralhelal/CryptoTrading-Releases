@@ -1,5 +1,5 @@
 {
-  "version": "1.2.60",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.60/CryptoTrading_Setup_1.2.60.exe",
-  "notes_ar": "إصلاح 10 رسائل انتظار: كل رسالة تصف السبب الفعلي بأرقام دقيقة (StochRSI/MACD/VWAP/RSI)"
+  "version": "1.2.61",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.61/CryptoTrading_Setup_1.2.61.exe",
+  "notes_ar": "إصلاح التقرير اليومي المكرر + near_local_bottom يشترط RSI ≤ 48"
 }
