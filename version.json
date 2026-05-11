@@ -1,5 +1,5 @@
 {
-  "version": "1.2.57",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.57/CryptoTrading_Setup_1.2.57.exe",
-  "notes_ar": "إصلاح Trailing Stop + ضبط تلقائي Bounce + تفعيل حساسية Mid + تحسين Low"
+  "version": "1.2.58",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.58/CryptoTrading_Setup_1.2.58.exe",
+  "notes_ar": "إصلاح جذري LOW: شراء في القاع بدون انتظار زخم + بيع استباقي في القمة + إصلاح سلسلة البروفايل المحافظ"
 }
