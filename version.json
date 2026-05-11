@@ -1,5 +1,5 @@
 {
-  "version": "1.2.59",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.59/CryptoTrading_Setup_1.2.59.exe",
-  "notes_ar": "إصلاح الرافعة: لا تُعاد للـ preset عند تغيير الحساسية أو الأفق الزمني"
+  "version": "1.2.60",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.60/CryptoTrading_Setup_1.2.60.exe",
+  "notes_ar": "إصلاح 10 رسائل انتظار: كل رسالة تصف السبب الفعلي بأرقام دقيقة (StochRSI/MACD/VWAP/RSI)"
 }
