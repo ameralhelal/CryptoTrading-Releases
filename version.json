@@ -1,5 +1,5 @@
 {
-  "version": "1.2.58",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.58/CryptoTrading_Setup_1.2.58.exe",
-  "notes_ar": "إصلاح جذري LOW: شراء في القاع بدون انتظار زخم + بيع استباقي في القمة + إصلاح سلسلة البروفايل المحافظ"
+  "version": "1.2.59",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.59/CryptoTrading_Setup_1.2.59.exe",
+  "notes_ar": "إصلاح الرافعة: لا تُعاد للـ preset عند تغيير الحساسية أو الأفق الزمني"
 }
