@@ -1,5 +1,5 @@
 {
-  "version": "1.2.55",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.55/CryptoTrading_Setup_1.2.55.exe",
-  "notes_ar": "إصلاح 2 أخطاء: خطوط MA20/MA50 تختفي عند التكبير + اختبار الاستراتيجية يعود 0 صفقات"
+  "version": "1.2.56",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.56/CryptoTrading_Setup_1.2.56.exe",
+  "notes_ar": "إصلاح باكتست (timestamp + comp_score) + تخفيف حساسية Low لتتناسب مع التداول الفعلي"
 }
