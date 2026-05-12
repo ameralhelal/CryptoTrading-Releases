@@ -1,1 +1,5 @@
-{"version":"1.2.73","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.73/CryptoTrading_Setup_1.2.73.exe","notes_ar":"إصلاح خطأ Python DLL عند التحديث التلقائي: حذف مجلدات _MEI القديمة قبل التثبيت"}
+{
+  "version": "1.2.74",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.74/CryptoTrading_Setup_1.2.74.exe",
+  "notes_ar": "ميزة جديدة: الشراء من القاع — شراء فوري عند تشبع البيع الشديد (RSI أو StochRSI) بدون انتظار توصية الروبوت"
+}
