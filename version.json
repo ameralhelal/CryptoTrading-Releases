@@ -1,5 +1,5 @@
 {
-  "version": "1.2.70",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.70/CryptoTrading_Setup_1.2.70.exe",
-  "notes_ar": "إصلاح التحديث التلقائي: إغلاق جميع عمليات البرنامج قبل الإنستولر بدون أي رسالة"
+  "version": "1.2.71",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.71/CryptoTrading_Setup_1.2.71.exe",
+  "notes_ar": "إصلاح التحديث التلقائي: بدون أخطاء Python DLL — البرنامج يُغلق ويُثبَّت ويُشغَّل تلقائياً"
 }
