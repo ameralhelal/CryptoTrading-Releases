@@ -1,5 +1,5 @@
 {
-  "version": "1.2.61",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.61/CryptoTrading_Setup_1.2.61.exe",
-  "notes_ar": "إصلاح التقرير اليومي المكرر + near_local_bottom يشترط RSI ≤ 48"
+  "version": "1.2.67",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.67/CryptoTrading_Setup_1.2.67.exe",
+  "notes_ar": "إصلاح سبب التنفيذ (حد الشراء يُسجَّل صحيحاً) + إضافة اتجاه البوت (شراء فقط / بيع فقط) + إصلاح وقف الخسارة (0 = معطّل)"
 }
