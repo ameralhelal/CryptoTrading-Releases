@@ -1,5 +1,5 @@
 {
-  "version": "1.2.75",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.75/CryptoTrading_Setup_1.2.75.exe",
-  "notes_ar": "تحسين: لوحة التوصية تعرض «شراء قاع» باللون السماوي عند تشبع البيع بدل «بيع» الأحمر"
+  "version": "1.2.76",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.76/CryptoTrading_Setup_1.2.76.exe",
+  "notes_ar": "إصلاح نهائي لخطأ Python DLL: حذف مجلدات _MEI القديمة عند بدء التشغيل وليس فقط عند التحديث"
 }
