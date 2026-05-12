@@ -1,5 +1,5 @@
 {
-  "version": "1.2.74",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.74/CryptoTrading_Setup_1.2.74.exe",
-  "notes_ar": "ميزة جديدة: الشراء من القاع — شراء فوري عند تشبع البيع الشديد (RSI أو StochRSI) بدون انتظار توصية الروبوت"
+  "version": "1.2.75",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.75/CryptoTrading_Setup_1.2.75.exe",
+  "notes_ar": "تحسين: لوحة التوصية تعرض «شراء قاع» باللون السماوي عند تشبع البيع بدل «بيع» الأحمر"
 }
