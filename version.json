@@ -1,5 +1,5 @@
 {
-  "version": "1.2.79",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.79/CryptoTrading_Setup_1.2.79.exe",
-  "notes_ar": "إصلاح Python DLL: استثناء Windows Defender + إخراج python312.dll من ضغط UPX"
+  "version": "1.2.80",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.80/CryptoTrading_Setup_1.2.80.exe",
+  "notes_ar": "إصلاح نهائي Python DLL: التحول لوضع onedir — البرنامج يعمل من مجلده مباشرةً بدون استخراج مؤقت"
 }
