@@ -1,5 +1,5 @@
 {
-  "version": "1.2.78",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.78/CryptoTrading_Setup_1.2.78.exe",
-  "notes_ar": "شراء القاع: RSI + StochRSI تجاوز البوت التوصية — إعدادات في تبويب البيع والشراء"
+  "version": "1.2.79",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.79/CryptoTrading_Setup_1.2.79.exe",
+  "notes_ar": "إصلاح Python DLL: استثناء Windows Defender + إخراج python312.dll من ضغط UPX"
 }
