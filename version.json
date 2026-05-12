@@ -1,5 +1,5 @@
 {
-  "version": "1.2.80",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.80/CryptoTrading_Setup_1.2.80.exe",
-  "notes_ar": "إصلاح نهائي Python DLL: التحول لوضع onedir — البرنامج يعمل من مجلده مباشرةً بدون استخراج مؤقت"
+  "version": "1.2.81",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.81/CryptoTrading_Setup_1.2.81.exe",
+  "notes_ar": "إصلاح الرصيد التراكمي: فرز الصفقات زمنياً قبل الحساب"
 }
