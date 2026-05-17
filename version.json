@@ -1,5 +1,5 @@
 {
-  "version": "1.2.91",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.91/CryptoTrading_Setup_1.2.91.exe",
-  "notes_ar": "إصلاح: التحويل التلقائي لـ Claude عند تجاوز حصة Gemini + إصلاح عداد صفقات التدريب"
+  "version": "1.2.92",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.92/CryptoTrading_Setup_1.2.92.exe",
+  "notes_ar": "إصلاح: إرسال رسالة تيليجرام كل ساعة حتى عند غياب المراكز المفتوحة"
 }
