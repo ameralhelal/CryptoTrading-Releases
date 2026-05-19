@@ -1,5 +1,5 @@
 {
-  "version": "1.2.93",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.93/CryptoTrading_Setup_1.2.93.exe",
-  "notes_ar": "إصلاح: سعر الدخول خاطئ للعملات الصغيرة في المراكز وتيليجرام (4 أماكن)"
+  "version": "1.2.94",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.94/CryptoTrading_Setup_1.2.94.exe",
+  "notes_ar": "إصلاح: الرصيد التراكمي في سجل الصفقات كان يضيف الأرباح مرتين — المزامنة التلقائية لرصيد eToro كانت تضبط رصيد البداية على الرصيد الحالي (يشمل الأرباح) فيظهر التراكمي أكبر من الرصيد الفعلي"
 }
