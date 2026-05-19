@@ -1,5 +1,5 @@
 {
-  "version": "1.2.92",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.92/CryptoTrading_Setup_1.2.92.exe",
-  "notes_ar": "إصلاح: إرسال رسالة تيليجرام كل ساعة حتى عند غياب المراكز المفتوحة"
+  "version": "1.2.93",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.93/CryptoTrading_Setup_1.2.93.exe",
+  "notes_ar": "إصلاح: سعر الدخول خاطئ للعملات الصغيرة (PEPE/SHIB) في لوحة المراكز وتيليجرام"
 }
