@@ -1,5 +1,5 @@
 {
   "version": "1.2.95",
-  "download_url": "https://github.com/ameralhelal/Amer/releases/download/v1.2.95/CryptoTrading-v1.2.95.zip",
+  "download_url": "https://github.com/ameralhelal/Amer/releases/download/v1.2.95/CryptoTrading_Setup_1.2.95.exe",
   "notes_ar": "إصلاح جذري: إشارات ما قبل انقلاب Supertrend — شراء مبكر عندما DI+>DI- قبل التأكيد الرسمي، إصلاح strategy_mode=auto، تحسين فرص الشراء من 100 إلى 121"
 }
