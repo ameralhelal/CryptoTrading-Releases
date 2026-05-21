@@ -1,5 +1,5 @@
 {
-  "version": "1.2.96",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.96/CryptoTrading_Setup_1.2.96.exe",
-  "notes_ar": "إشعارات تلغرام: أخذ الربح/الخسارة من لوحة المراكز مباشرةً بدل الحساب المستقل"
+  "version": "1.2.97",
+  "url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.97/CryptoTrading_Setup_1.2.97.exe",
+  "notes": "إصلاح كراش ويندوز COM 0x8001010d بعد 10-15 دقيقة"
 }
