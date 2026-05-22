@@ -1,5 +1,5 @@
 {
-  "version": "1.3.01",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.01/CryptoTrading_Setup_1.3.01.exe",
-  "notes_ar": "إصلاح جذري: أسعار المراكز المفتوحة لا تُجلب عبر REST عند انقطاع WebSocket"
+  "version": "1.3.02",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.02/CryptoTrading_Setup_1.3.02.exe",
+  "notes_ar": "إصلاح جذري: رموز eToro تظهر بسعر — وزر الإغلاق لا يعمل عند تحميل المراكز قبل اختيار الشارت"
 }
