@@ -1,5 +1,5 @@
 {
-  "version": "1.3.04",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.04/CryptoTrading_Setup_1.3.04.exe",
-  "notes_ar": "إصلاح: تكرار تسجيل إغلاق eToro التلقائي في سجل الصفقات + فاصلة الآلاف + رموز ETORO_"
+  "version": "1.3.05",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.05/CryptoTrading_Setup_1.3.05.exe",
+  "notes_ar": "إصلاح: البوت كان يحجب الشراء عند إشارات انقلاب Supertrend وتشبع البيع حتى في حالة Supertrend هابط 4H"
 }
