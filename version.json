@@ -1,5 +1,5 @@
 {
-  "version": "1.3.00",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.00/CryptoTrading_Setup_1.3.00.exe",
-  "notes_ar": "إصلاح أسعار المراكز المفتوحة + ربح/خسارة تلغرام بعد الرسوم"
+  "version": "1.3.01",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.01/CryptoTrading_Setup_1.3.01.exe",
+  "notes_ar": "إصلاح جذري: أسعار المراكز المفتوحة لا تُجلب عبر REST عند انقطاع WebSocket"
 }
