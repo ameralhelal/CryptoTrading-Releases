@@ -1,5 +1,6 @@
 {
-  "version": "1.3.10",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.10/CryptoTrading_Setup_1.3.10.exe",
-  "notes_ar": "ميزة الدخول المبكر عند القاع (bot_early_bottom_entry): دخول أبكر عند RSI منخفض + دعم/قاع قبل تأكيد MACD، مع إصلاح اللقطة المتأخرة للبوت"
+  "version": "1.3.11",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.11/CryptoTrading_Setup_1.3.11.exe",
+  "sha256": "969b30b33f9e8aea7977349b002a3ef2f8a0222b63cdc1de10b7f5fc81031d28",
+  "notes_ar": "إصلاحات أمنية وجودة: حماية SHA256 للتحديث، حماية localhost للـ web_hub، إصلاح صفوف eToro الوهمية، إصلاح split-brain في pure_strategy_mode، وغيرها"
 }
