@@ -1,6 +1,6 @@
 {
-  "version": "1.3.12",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.12/CryptoTrading_Setup_1.3.12.exe",
-  "sha256": "6284de0ed94df264c53bf36efedc2ae19cf4e51cf46ddc745fe170d0d5329cd6",
-  "notes_ar": "إصلاح شامل: توحيد حسابات PnL الصافية مع الرسوم، فلاتر sell_conditions، أقفال Thread-safety، مركزة فحوصات الحدود اليومية، 0 استثناء صامت في مسارات التنفيذ"
+  "version": "1.3.13",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.13/CryptoTrading_Setup_1.3.13.exe",
+  "sha256": "2c72829e2ce61849ad9eaa6438a10857d5c2829f42790192d7f77a6053d86f83",
+  "notes_ar": "إصلاح هيكلية الإعدادات: وقف الخسارة والتتبع وحد البيع بأزرارها الخاصة، sell_conditions عند الفلاتر الخاصة فقط، إصلاح daily_loss يحجب الإغلاق، إصلاح رسوم مزدوجة في backtest"
 }
