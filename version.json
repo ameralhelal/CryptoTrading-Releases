@@ -1,1 +1,5 @@
-{"version":"1.3.09","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.09/CryptoTrading-v1.3.09-Windows.zip","notes_ar":"إصلاح تضارب قرار اللوحة وقرار البوت: فصل النصوص بالكامل"}
+{
+  "version": "1.3.10",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.10/CryptoTrading_Setup_1.3.10.exe",
+  "notes_ar": "ميزة الدخول المبكر عند القاع (bot_early_bottom_entry): دخول أبكر عند RSI منخفض + دعم/قاع قبل تأكيد MACD، مع إصلاح اللقطة المتأخرة للبوت"
+}
