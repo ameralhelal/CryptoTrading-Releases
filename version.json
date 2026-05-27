@@ -1,6 +1,6 @@
 {
-  "version": "1.3.16",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.16/CryptoTrading_Setup_1.3.16.exe",
-  "sha256": "7c47074af81562573bd0306494f81efd359fc029c0c4531cbd258b56d111285b",
-  "notes_ar": "إصلاح جذري: انتظار فاصل السعر/النسبة من آخر شراء — يُعاد تعيينه تلقائياً بعد اكتمال دورة الشراء+البيع"
+  "version": "1.3.17",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.17/CryptoTrading_Setup_1.3.17.exe",
+  "sha256": "704b93d5988b843b8e456b37f4007896e48121139cea22740595c986034dde6a",
+  "notes_ar": "إصلاح: شراء القاع يمر عبر كامل حمايات البوت (قاطع الدائرة، الخسائر المتتالية، فلاتر التنفيذ) + إصلاح حفظ إعدادات VWAP والتعلم التلقائي"
 }
