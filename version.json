@@ -1,6 +1,6 @@
 {
-  "version": "1.3.17",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.17/CryptoTrading_Setup_1.3.17.exe",
-  "sha256": "704b93d5988b843b8e456b37f4007896e48121139cea22740595c986034dde6a",
-  "notes_ar": "إصلاح: شراء القاع يمر عبر كامل حمايات البوت (قاطع الدائرة، الخسائر المتتالية، فلاتر التنفيذ) + إصلاح حفظ إعدادات VWAP والتعلم التلقائي"
+  "version": "1.3.18",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.18/CryptoTrading_Setup_1.3.18.exe",
+  "sha256": "7720755f8a2f24279a9c218d34ee2c5055d89c885e648be07c4f47e11fce47f1",
+  "notes_ar": "تغيير قيم الإعدادات بناءً على الحساسية"
 }
