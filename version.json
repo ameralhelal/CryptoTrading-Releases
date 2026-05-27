@@ -1,6 +1,6 @@
 {
-  "version": "1.3.13",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.13/CryptoTrading_Setup_1.3.13.exe",
-  "sha256": "2c72829e2ce61849ad9eaa6438a10857d5c2829f42790192d7f77a6053d86f83",
-  "notes_ar": "إصلاح هيكلية الإعدادات: وقف الخسارة والتتبع وحد البيع بأزرارها الخاصة، sell_conditions عند الفلاتر الخاصة فقط، إصلاح daily_loss يحجب الإغلاق، إصلاح رسوم مزدوجة في backtest"
+  "version": "1.3.14",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.14/CryptoTrading_Setup_1.3.14.exe",
+  "sha256": "12877f3ab338bcd62018c5c763150b9eb9b4b3a69c615227cd715f37c351b8d3",
+  "notes_ar": "إصلاح ألوان قرار البوت: بيع=أحمر، شراء=أخضر دائماً — اللون يطابق النص بدون تدخل block_sell البنفسجي"
 }
