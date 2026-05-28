@@ -1,6 +1,1 @@
-{
-  "version": "1.3.22",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.22/CryptoTrading_Setup_1.3.22.exe",
-  "sha256": "e8fa071828446896cd8c5c04b52c2ffb69882bdaad052c21da57bed6fb9055bf",
-  "notes_ar": "حذف المؤشرات المكررة من اللوحة وقرار البوت"
-}
+{"download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.23/CryptoTrading_Setup_1.3.23.exe","sha256":"C3B6AA25BA98CD1A8E79DD598194709037A9213237C8D3B228E3DE80004EFD72","notes_ar":"إصلاح سجل الصفقات + تحسين أداء المركّب + تخفيف عتبات الشراء","version":"1.3.23"}
