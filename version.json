@@ -1,6 +1,6 @@
 {
-  "version": "1.3.20",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.20/CryptoTrading_Setup_1.3.20.exe",
-  "sha256": "9790fdf84043ab8babedbc12adaf4982f527d8e91ea4e3c65c4f998df9408630",
-  "notes_ar": "إنشاء سجل لتسجيل حالات الانتظار والمنع"
+  "version": "1.3.21",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.21/CryptoTrading_Setup_1.3.21.exe",
+  "sha256": "31ab9d985dc94df11241e3a593436d8a45dc510e6604f952679ab3f788860739",
+  "notes_ar": "إصلاح حد البيع"
 }
