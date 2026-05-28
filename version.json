@@ -1,1 +1,6 @@
-{"version":"1.3.24","download_url":"https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.24/CryptoTrading_Setup_1.3.24.exe","sha256":"085A4EA717CE2A0184842B68D1FDAD65D338C59D4A0098942DB774DB942437DD","notes_ar":"إصلاح عرض السعر (أصفار زائدة) + ضبط عتبات التشبع الشرائي حسب الحساسية"}
+{
+  "version": "1.3.25",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.25/CryptoTrading_Setup_1.3.25.exe",
+  "sha256": "6044563820A2A4F76497B2CE6486B37A000B7D8C781A75C9F704150F0055F30E",
+  "notes_ar": "حفظ المراكز المفتوحة تلقائياً عند الإغلاق واستعادتها عند إعادة التشغيل لجميع المنصات"
+}
