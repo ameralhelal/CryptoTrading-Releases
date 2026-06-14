@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.27",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.27/CryptoTrading_Setup_1.3.27.exe",
+    "version":  "1.3.29",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.29/CryptoTrading_Setup_1.3.29.exe",
     "sha256":  "",
-    "notes_ar":  "إصلاح تجميد المؤشرات والأرقام — إصلاح الشراء المزدوج بنفس السعر"
+    "notes_ar":  "إصلاح تكرار رسالة رصيد غير كافٍ — إصلاح البيع عند التشبع عند تعارضه مع cooldown الشراء"
 }
