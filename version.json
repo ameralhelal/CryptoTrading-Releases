@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.29",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.29/CryptoTrading_Setup_1.3.29.exe",
+    "version":  "1.3.30",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.30/CryptoTrading_Setup_1.3.30.exe",
     "sha256":  "",
-    "notes_ar":  "إصلاح تكرار رسالة رصيد غير كافٍ — إصلاح البيع عند التشبع عند تعارضه مع cooldown الشراء"
+    "notes_ar":  "إصلاح توصية اللوحة — لم تكن تعطي SELL بسبب غياب حالة المركز المفتوح عند الحساب"
 }
