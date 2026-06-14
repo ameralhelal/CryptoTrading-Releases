@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.30",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.30/CryptoTrading_Setup_1.3.30.exe",
+    "version":  "1.3.31",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.31/CryptoTrading_Setup_1.3.31.exe",
     "sha256":  "",
-    "notes_ar":  "إصلاح توصية اللوحة — لم تكن تعطي SELL بسبب غياب حالة المركز المفتوح عند الحساب"
+    "notes_ar":  "إصلاح التتبع: يقرأ السعر من عمود الجدول عند غياب الكاش — إصلاح مزامنة أزرار الأوامر السريعة"
 }
