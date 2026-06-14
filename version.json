@@ -1,5 +1,6 @@
 {
-  "version": "1.2.81",
-  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.2.81/CryptoTrading_Setup_1.2.81.exe",
-  "notes_ar": "إصلاح الرصيد التراكمي: فرز الصفقات زمنياً قبل الحساب"
+  "version": "1.3.25",
+  "download_url": "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.25/CryptoTrading_Setup_1.3.25.exe",
+  "sha256": "6044563820A2A4F76497B2CE6486B37A000B7D8C781A75C9F704150F0055F30E",
+  "notes_ar": "حفظ المراكز المفتوحة تلقائياً عند الإغلاق واستعادتها عند إعادة التشغيل لجميع المنصات"
 }
