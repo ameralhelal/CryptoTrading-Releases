@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.40",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.40/CryptoTrading_Setup_1.3.40.exe",
-    "sha256":  "D3EBC8F2350CB3FE1972770AE1BE57A60F8B2A27A1EEBE1311B3B0AA8F3DD0B4",
-    "notes_ar":  "إصلاح: التتبع لا يبيع عند كسر خط البيع — تتبع أدنى سعر بين دورات المؤقت لمسك الانخفاضات القصيرة"
+    "version":  "1.3.42",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.42/CryptoTrading_Setup_1.3.42.exe",
+    "sha256":  "316226596C878C651B39879A5EFFB432523B6D1CF61A84332CDBB9CAA7388081",
+    "notes_ar":  "fix: منع الشراء في القمة (StochRSI K<D) + تصحيح لون المنع برتقالي + إخفاء سطري الملخص وتلميح الجدول"
 }
