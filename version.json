@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.32",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.32/CryptoTrading_Setup_1.3.32.exe",
-    "sha256":  "",
-    "notes_ar":  "إصلاح التتبع: كانت الفواصل في تنسيق الأسعار تُفشل قراءة entry وqty فيظهر «بانتظار أسعار الصفوف»"
+    "version":  "1.3.37",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.37/CryptoTrading_Setup_1.3.37.exe",
+    "sha256":  "0A352A0EA7E74EAF02D91430D29FEE71588DECCABCBCA0E05878A4785E9F85DA",
+    "notes_ar":  "إصلاح: توقف التطبيق بعد دقائق (كراش COM 0x8001010d في خيوط الشبكة)"
 }
