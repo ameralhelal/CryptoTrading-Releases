@@ -1,3 +1,6 @@
 {
-    "version":  "1.3.41"
+    "version":  "1.3.41",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.41/CryptoTrading_Setup_1.3.41.exe",
+    "sha256":  "571664E817303E613E9172F8B662E2844AD428D58E1658DD9C49C0C80960041A",
+    "notes_ar":  "fix: save trailing peak on restart + entry price no decimals 65750"
 }
