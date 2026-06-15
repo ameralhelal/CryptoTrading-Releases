@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.42",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.42/CryptoTrading_Setup_1.3.42.exe",
-    "sha256":  "316226596C878C651B39879A5EFFB432523B6D1CF61A84332CDBB9CAA7388081",
-    "notes_ar":  "fix: منع الشراء في القمة (StochRSI K<D) + تصحيح لون المنع برتقالي + إخفاء سطري الملخص وتلميح الجدول"
+    "version":  "1.3.43",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.43/CryptoTrading_Setup_1.3.43.exe",
+    "sha256":  "12E606ECE834A816BEB99E736127E71DE1FBBF7C2C7E4DFEBEC7E4E3D44132FE",
+    "notes_ar":  "fix: تصحيح فلتر الارتداد + عتبة StochRSI مخفّضة + تحسين قراءة الحد الأدنى للمركّب"
 }
