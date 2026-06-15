@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.39",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.39/CryptoTrading_Setup_1.3.39.exe",
-    "sha256":  "478850F5E1CA25A2E14CD1D7BB452D8D766D356D358EB8B61577B2E81713ECAF",
-    "notes_ar":  "إصلاح: فقدان القمة عند إعادة تشغيل التطبيق — حفظ ذري للقمة + منع حذفها قبل تحميل المراكز"
+    "version":  "1.3.40",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.40/CryptoTrading_Setup_1.3.40.exe",
+    "sha256":  "D3EBC8F2350CB3FE1972770AE1BE57A60F8B2A27A1EEBE1311B3B0AA8F3DD0B4",
+    "notes_ar":  "إصلاح: التتبع لا يبيع عند كسر خط البيع — تتبع أدنى سعر بين دورات المؤقت لمسك الانخفاضات القصيرة"
 }
