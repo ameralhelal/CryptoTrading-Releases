@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.37",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.37/CryptoTrading_Setup_1.3.37.exe",
-    "sha256":  "0A352A0EA7E74EAF02D91430D29FEE71588DECCABCBCA0E05878A4785E9F85DA",
-    "notes_ar":  "إصلاح: توقف التطبيق بعد دقائق (كراش COM 0x8001010d في خيوط الشبكة)"
+    "version":  "1.3.38",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.38/CryptoTrading_Setup_1.3.38.exe",
+    "sha256":  "8A8191848E222387D5B3EEEE9B1DEE3249A12421DFB3466883B183CDA432E576",
+    "notes_ar":  "إصلاح: التتبع لم يُنفَّذ رغم تجاوز خط البيع — استخدام سعر WebSocket المباشر بدل REST المتأخر"
 }
