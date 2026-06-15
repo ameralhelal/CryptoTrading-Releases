@@ -1,6 +1,3 @@
 {
-    "version":  "1.3.40",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.40/CryptoTrading_Setup_1.3.40.exe",
-    "sha256":  "D3EBC8F2350CB3FE1972770AE1BE57A60F8B2A27A1EEBE1311B3B0AA8F3DD0B4",
-    "notes_ar":  "إصلاح: التتبع لا يبيع عند كسر خط البيع — تتبع أدنى سعر بين دورات المؤقت لمسك الانخفاضات القصيرة"
+    "version":  "1.3.41"
 }
