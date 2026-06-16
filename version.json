@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.43",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.43/CryptoTrading_Setup_1.3.43.exe",
-    "sha256":  "12E606ECE834A816BEB99E736127E71DE1FBBF7C2C7E4DFEBEC7E4E3D44132FE",
-    "notes_ar":  "fix: تصحيح فلتر الارتداد + عتبة StochRSI مخفّضة + تحسين قراءة الحد الأدنى للمركّب"
+    "version":  "1.3.44",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.44/CryptoTrading_Setup_1.3.44.exe",
+    "sha256":  "F7DE93A310440F706E4AE3A1F311EF1AA34F3193D9E8B25EC7D9FC097E9D70C7",
+    "notes_ar":  "fix: منع حساب أوامر eToro كمراكز وهمية + إصلاح فقدان مطابقة الرمز عند البيع (ETORO_xxxxx) + معالجة WinError 5 عند حفظ الإعدادات"
 }
