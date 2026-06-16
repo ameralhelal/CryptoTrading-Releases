@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.45",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.45/CryptoTrading_Setup_1.3.45.exe",
-    "sha256":  "28066E6328A695739BA798C442934D0ABAE51E03B594A9946C6D8F048C4418FD",
-    "notes_ar":  "fix: توحيد تنسيق عمود السعر الحالي مع سعر الدخول في المراكز المفتوحة"
+    "version":  "1.3.46",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.46/CryptoTrading_Setup_1.3.46.exe",
+    "sha256":  "EC98E96121174441BA3BEE178078A1348AECB5A2E8143FE959BC008C8B5BEDD4",
+    "notes_ar":  "fix: إلغاء التصغير الصامت لصفقات الشراء بعد خطأ 716 من eToro + إصلاح كراش COM المتكرر الذي يُغلق التطبيق بعد دقيقة من التشغيل"
 }
