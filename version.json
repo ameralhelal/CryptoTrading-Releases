@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.47",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.47/CryptoTrading_Setup_1.3.47.exe",
-    "sha256":  "E7ABE05CFC3E5B40D31F4C7F435E84BCD381E6CC2778F868B3A37A48932BB4D1",
-    "notes_ar":  "fix: تحرير تهيئة COM عند خروج كل خيط خلفية (CoUninitialize) لمنع تسرّب موارد COM المتكرر الذي كان يُسبّب كراش التطبيق بعد دقائق من التشغيل"
+    "version":  "1.3.48",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.48/CryptoTrading_Setup_1.3.48.exe",
+    "sha256":  "81C102EB93FC64989AA1BA6D6C144C7B69A8D900F24064B066BBC2E9013E0C9A",
+    "notes_ar":  "fix: إصلاح 'لا يوجد مراكز مفتوحة' عند البيع — تجميد بحث instrument_id عند 429 لمدة 120 ثانية + احتياطي من open_positions_cache.json + تمديد grace period إلى 300 ثانية"
 }
