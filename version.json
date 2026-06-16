@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.49",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.49/CryptoTrading_Setup_1.3.49.exe",
-    "sha256":  "CCAF7BEF194493E1DB81FDB46477F2EC1D385EDDD78FB74F1462245C5182C758",
-    "notes_ar":  "fix: إصلاح تجمد البرنامج عند تشغيل البوت — تقليل timeout البحث من 15 إلى 5 ثوانٍ + تجميد جميع طلبات البحث لـ60 ثانية عند أي فشل شبكي"
+    "version":  "1.3.50",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.50/CryptoTrading_Setup_1.3.50.exe",
+    "sha256":  "3811C6239D35091E4A2F8343C1C6285261735AAFA89DB8C839C4598DE3A51C84",
+    "notes_ar":  "fix: إصلاح كامل لتجمد الواجهة عند تشغيل البوت — حلقة resolve_trading_symbol تتخطى طلبات الشبكة كلياً في فترة التهدئة"
 }
