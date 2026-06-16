@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.48",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.48/CryptoTrading_Setup_1.3.48.exe",
-    "sha256":  "81C102EB93FC64989AA1BA6D6C144C7B69A8D900F24064B066BBC2E9013E0C9A",
-    "notes_ar":  "fix: إصلاح 'لا يوجد مراكز مفتوحة' عند البيع — تجميد بحث instrument_id عند 429 لمدة 120 ثانية + احتياطي من open_positions_cache.json + تمديد grace period إلى 300 ثانية"
+    "version":  "1.3.49",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.49/CryptoTrading_Setup_1.3.49.exe",
+    "sha256":  "CCAF7BEF194493E1DB81FDB46477F2EC1D385EDDD78FB74F1462245C5182C758",
+    "notes_ar":  "fix: إصلاح تجمد البرنامج عند تشغيل البوت — تقليل timeout البحث من 15 إلى 5 ثوانٍ + تجميد جميع طلبات البحث لـ60 ثانية عند أي فشل شبكي"
 }
