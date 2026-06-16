@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.44",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.44/CryptoTrading_Setup_1.3.44.exe",
-    "sha256":  "F7DE93A310440F706E4AE3A1F311EF1AA34F3193D9E8B25EC7D9FC097E9D70C7",
-    "notes_ar":  "fix: منع حساب أوامر eToro كمراكز وهمية + إصلاح فقدان مطابقة الرمز عند البيع (ETORO_xxxxx) + معالجة WinError 5 عند حفظ الإعدادات"
+    "version":  "1.3.45",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.45/CryptoTrading_Setup_1.3.45.exe",
+    "sha256":  "28066E6328A695739BA798C442934D0ABAE51E03B594A9946C6D8F048C4418FD",
+    "notes_ar":  "fix: توحيد تنسيق عمود السعر الحالي مع سعر الدخول في المراكز المفتوحة"
 }
