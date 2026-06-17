@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.53",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.53/CryptoTrading_Setup_1.3.53.exe",
-    "sha256":  "DFC82FF607DB521E65E8C37EBC9CBF79865CA37D88819E1829E261743566CEF2",
-    "notes_ar":  "fix: إصلاح الإغلاق التلقائي — توجيه SSL إلى certifi بدلاً من Windows cert store لمنع كراش COM 0x8001010d في خيوط requests وwebsocket"
+    "version":  "1.3.54",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.54/CryptoTrading_Setup_1.3.54.exe",
+    "sha256":  "D94C7860F51CD7748EF54B74773F8A001794504C77F1A46E2EEEF6F576ACEAD0",
+    "notes_ar":  "fix: إصلاح تسرب خيوط QThread المحذوفة — _execution_busy_for_orders تُعيد ضبط المراجع عند RuntimeError بدلاً من تكرار الخطأ 700+ مرة/30ث"
 }
