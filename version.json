@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.55",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.55/CryptoTrading_Setup_1.3.55.exe",
-    "sha256":  "5B3FA1F31EF6D3C526F39A9E180619376AAF21C7CA149345332AF95A524E1F55",
-    "notes_ar":  "fix: إصلاح ظهور المراكز المغلقة عند إعادة التشغيل — مسح كاش open_positions_cache.json فوراً عند إغلاق آخر مركز وعند إغلاق التطبيق"
+    "version":  "1.3.56",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.56/CryptoTrading_Setup_1.3.56.exe",
+    "sha256":  "CE15F2CD849E47695F7EF3449C6FDB2A62A01472D8EF41D62D702DD5DF19D6C4",
+    "notes_ar":  "fix: تجاهل مراكز الغبار من eToro (أقل من 200$) — تمنع ظهور مراكز وهمية عند فتح البرنامج"
 }
