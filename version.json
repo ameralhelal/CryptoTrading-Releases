@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.57",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.57/CryptoTrading_Setup_1.3.57.exe",
-    "sha256":  "D1D601E8DC1BAE0BA387C3EB164BBADA49F6EA7805E8CC9BA7E02B97C31B3AF5",
-    "notes_ar":  "fix: إصلاح عداد أوامر الأمان المتجمد بعد إغلاق الصفقة + إصلاح قراءة سعر الدخول بفاصلة الآلاف في جدول المراكز"
+    "version":  "1.3.58",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.58/CryptoTrading_Setup_1.3.58.exe",
+    "sha256":  "903154ED2FB43A645CB736F3B897B8D7371FFDAB5581988F132F3D9832D8322F",
+    "notes_ar":  "fix: عرض أقرب صفقة لخط التتبع بدلاً من الصفقة الأولى في الجدول"
 }
