@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.58",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.58/CryptoTrading_Setup_1.3.58.exe",
-    "sha256":  "903154ED2FB43A645CB736F3B897B8D7371FFDAB5581988F132F3D9832D8322F",
-    "notes_ar":  "fix: عرض أقرب صفقة لخط التتبع بدلاً من الصفقة الأولى في الجدول"
+    "version":  "1.3.59",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.59/CryptoTrading_Setup_1.3.59.exe",
+    "sha256":  "593838469CBB67D3DD5C102F9C688DB6EE8DCFBD8C89AE454FC5F63A1F6BB3B4",
+    "notes_ar":  "fix: مسح قمة التتبع فور بيع المركز — لا يتبع البوت القمة القديمة بعد فتح صفقة جديدة"
 }
