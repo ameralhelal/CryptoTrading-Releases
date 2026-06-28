@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.59",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.59/CryptoTrading_Setup_1.3.59.exe",
-    "sha256":  "593838469CBB67D3DD5C102F9C688DB6EE8DCFBD8C89AE454FC5F63A1F6BB3B4",
-    "notes_ar":  "fix: مسح قمة التتبع فور بيع المركز — لا يتبع البوت القمة القديمة بعد فتح صفقة جديدة"
+    "version":  "1.3.60",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.60/CryptoTrading_Setup_1.3.60.exe",
+    "sha256":  "1C9755661A6F2593E6CC713813D262DD494F64E10815F74CC87785ED90C21600",
+    "notes_ar":  "fix: أوامر الأمان تظهر كصفوف منفصلة قبل وبعد إعادة التشغيل — توحيد العرض"
 }
