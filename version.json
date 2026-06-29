@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.61",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.61/CryptoTrading_Setup_1.3.61.exe",
-    "sha256":  "341898E7C16F0377FFBF48701623B2BA4375DC976CCB7FD8AB27272E841CAA14",
-    "notes_ar":  "fix: إصلاح إغلاق التطبيق التلقائي — حماية _on_done من access violation عند حذف TradingPanel + إخفاء أسطر الإحصائيات من سجل الصفقات"
+    "version":  "1.3.62",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.62/CryptoTrading_Setup_1.3.62.exe",
+    "sha256":  "ADB43D5BD68CD868E5457978843320486BD6FB2128B4E2809D5AEF546249C881",
+    "notes_ar":  "fix: إصلاح الإغلاق التلقائي — فحص C++ آمن بـ sip.isdeleted + إيقاف threads الـ ping المتراكمة"
 }
