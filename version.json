@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.60",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.60/CryptoTrading_Setup_1.3.60.exe",
-    "sha256":  "1C9755661A6F2593E6CC713813D262DD494F64E10815F74CC87785ED90C21600",
-    "notes_ar":  "fix: أوامر الأمان تظهر كصفوف منفصلة قبل وبعد إعادة التشغيل — توحيد العرض"
+    "version":  "1.3.61",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.61/CryptoTrading_Setup_1.3.61.exe",
+    "sha256":  "341898E7C16F0377FFBF48701623B2BA4375DC976CCB7FD8AB27272E841CAA14",
+    "notes_ar":  "fix: إصلاح إغلاق التطبيق التلقائي — حماية _on_done من access violation عند حذف TradingPanel + إخفاء أسطر الإحصائيات من سجل الصفقات"
 }
