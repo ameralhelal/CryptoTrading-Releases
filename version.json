@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.65",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.65/CryptoTrading_Setup_1.3.65.exe",
-    "sha256":  "48161230BB77CEC46B36D941230AC9D0335A6ABCA2711D0319025A3EA5B0D5F9",
-    "notes_ar":  "fix: إصلاح تسجيل صفقة بيع وهمية بسعر 0 عند تبديل العملة أثناء الإغلاق — حفظ رمز العملة مع السعر المخزَّن لمنع إعادة تصفيره"
+    "version":  "1.3.66",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.66/CryptoTrading_Setup_1.3.66.exe",
+    "sha256":  "0881A841C980B0A7714D03DD8F15E0DC84BD1DC295F8986D93DBE7B78309A426",
+    "notes_ar":  "fix: إصلاح خطأ صياغي (قوس مفقود) في _order_mixin.py كان يمنع تضمين الملف في البناء ويسبب انهيار التطبيق عند بدء التشغيل (ModuleNotFoundError)"
 }
