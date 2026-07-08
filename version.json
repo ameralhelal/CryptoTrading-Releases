@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.68",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.68/CryptoTrading_Setup_1.3.68.exe",
-    "sha256":  "32FF6ACCA341CAFFFBA0923796965EDA04615C51B3F62505D9061E7BF571E81E",
-    "notes_ar":  "fix: منع تسجيل بيع وهمي بسعر 0 عند تبديل العملة والعودة إليها أثناء بيع البوت عند الذروة — جلب احتياطي من Binance وعدم تسجيل/إظهار الصفقة إن تعذّر تحديد السعر"
+    "version":  "1.3.69",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.69/CryptoTrading_Setup_1.3.69.exe",
+    "sha256":  "65BC520EAE21D108D917B5034A8B89A808DC5946192493EFDDFCC19957B380E7",
+    "notes_ar":  "fix: كل شراء (أساسي أو أمر أمان DCA) يُضاف كصف مستقل في جدول المراكز بدل دمجه بمتوسط السعر، مع إصلاح فقدان الكسور العشرية في سعر الدخول والسعر الحالي عند الأسعار >= 1000"
 }
