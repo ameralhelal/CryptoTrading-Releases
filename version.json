@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.72",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.72/CryptoTrading_Setup_1.3.72.exe",
-    "sha256":  "1744BB354D843424FAE7479730684DE573287BCEF7FA2975AF266282FE0B8E30",
-    "notes_ar":  "fix: حفظ السعر المرجعي الثابت لأوامر الأمان (DCA) على القرص بجانب العداد — كان يُفقد عند كل إعادة تشغيل فيُحسب هبوط السعر من متوسط دخول متحرك بدل السعر الأصلي، مع إصلاح فقدان الكسر العشري في خطوة أمر الأمان عند تطبيق preset أو استعادة الافتراضي"
+    "version":  "1.3.73",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.73/CryptoTrading_Setup_1.3.73.exe",
+    "sha256":  "DAF42730E5700939C2DD57148C08730C544A5F004DDB49E87586B1835DEBB051",
+    "notes_ar":  "fix: التراجع عن تحميل sklearn في خيط خلفي (كان يسبب تنافساً على المعالج مع الخيط الرئيسي فيظهر كشاشة سوداء/تجمّد عند بدء التشغيل) والعودة للتحميل المتزامن المستقر قبل ظهور النافذة كما في 1.3.68"
 }
