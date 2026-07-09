@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.70",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.70/CryptoTrading_Setup_1.3.70.exe",
-    "sha256":  "9CCB7732FD71EE5D502B45E0E80CFAAF89E894A0546CBD647BA6CF37AE7A463D",
-    "notes_ar":  "perf: تسريع بدء التشغيل بحوالي ثانية عبر تأجيل تحميل sklearn (نموذج ML) إلى وقت الاستخدام الفعلي بدل تحميله عند إقلاع البرنامج"
+    "version":  "1.3.71",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.71/CryptoTrading_Setup_1.3.71.exe",
+    "sha256":  "870C6841C6A20B04BE1CF01265CC91E145788AF04357B0499CA6C46376750849",
+    "notes_ar":  "fix: تحميل نموذج ML في خيط خلفي بعد ظهور النافذة لمنع تجمّد الواجهة عند أول قرار شراء (بدل تحميله في منتصف الجلسة على الخيط الرئيسي)، مع إصلاح خطأ Access Denied المتقطع عند كتابة ملخص سجل حظر الشراء على ويندوز"
 }
