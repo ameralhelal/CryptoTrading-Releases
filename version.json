@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.73",
-    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.73/CryptoTrading_Setup_1.3.73.exe",
-    "sha256":  "DAF42730E5700939C2DD57148C08730C544A5F004DDB49E87586B1835DEBB051",
-    "notes_ar":  "fix: التراجع عن تحميل sklearn في خيط خلفي (كان يسبب تنافساً على المعالج مع الخيط الرئيسي فيظهر كشاشة سوداء/تجمّد عند بدء التشغيل) والعودة للتحميل المتزامن المستقر قبل ظهور النافذة كما في 1.3.68"
+    "version":  "1.3.74",
+    "download_url":  "https://github.com/ameralhelal/CryptoTrading-Releases/releases/download/v1.3.74/CryptoTrading_Setup_1.3.74.exe",
+    "sha256":  "8DA4785164270029CA01E6F34C08F497559810B236BE24642ECE87A4A1E1C760",
+    "notes_ar":  "perf: تأجيل بدء اتصال WebSocket والأطر الزمنية 200ms بعد ظهور النافذة بدل بدئه أثناء الإنشاء — يمنح Qt فرصة لإكمال الرسم الأولي أولاً، فيقلّل احتمال الشاشة السوداء عند تكبير/تصغير النافذة في أول ثوانٍ من التشغيل"
 }
